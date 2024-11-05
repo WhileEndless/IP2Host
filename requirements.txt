@@ -15,6 +15,7 @@ requests-file==2.1.0
 rich==13.9.4
 shodan==1.31.0
 soupsieve==2.6
+Sublist3r==1.0
 tldextract==5.1.3
 typing_extensions==4.12.2
 urllib3==2.2.3
